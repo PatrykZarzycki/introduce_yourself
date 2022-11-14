@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">introduce_yourself</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Strona Główna</string>
+    <string name="title_search">Wyszukiwarka</string>
+    <string name="title_user_card">Karta osoby</string>
 </resources>

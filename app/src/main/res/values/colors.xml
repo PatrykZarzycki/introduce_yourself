@@ -49,5 +49,7 @@
     <color name="text_gray">@color/davys_grey</color>
     <color name="text_dark">@color/eerie_black</color>
     <color name="text_black">#000000</color>
-    <color name="si_su_ion_color">#2E2E2E</color>
+    <color name="si_su_icon">#2E2E2E</color>
+    <color name="nav_header">#FFFFFF</color>
+    <color name="underline">@color/sonic_silver</color>
 </resources>

@@ -27,6 +27,5 @@ class UserItemActivity : AppCompatActivity() {
         if (readUserModel != null) {
             supportActionBar!!.title = readUserModel!!.email
         }
-
     }
 }

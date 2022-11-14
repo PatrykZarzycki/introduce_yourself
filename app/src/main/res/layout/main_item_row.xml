@@ -28,6 +28,7 @@
                 android:layout_height="100dp"
                 android:contentDescription="@string/app_name"
                 android:src="@mipmap/ic_launcher_round" />
+<!--                TODO: Patryk rounded user picture-->
 
             <LinearLayout
                 android:layout_width="match_parent"
